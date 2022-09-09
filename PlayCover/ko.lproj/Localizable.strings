@@ -1,0 +1,297 @@
+/* (No Comment) */
+"alert.app.delete" = "모든 앱 데이터가 삭제됩니다. 앱 내부 파일들을 다시 다운로드해야 할 수도 있습니다. 정말로 삭제하시겠습니까?";
+
+/* (No Comment) */
+"alert.app.preferences" = "모든 인앱 설정이 삭제됩니다. 설정을 다시 해야 할 수도 있습니다. 정말 진행하시겠습니까?";
+
+/* (No Comment) */
+"alert.appCacheCleared" = "앱 데이터가 초기화 되었습니다!";
+
+/* (No Comment) */
+"alert.error" = "오류가 발생했습니다!";
+
+/* (No Comment) */
+"alert.errorImportKm" = "키맵핑을 불러오는데 문제가 발생했습니다!";
+
+/* (No Comment) */
+"alert.kmImported" = "키맵핑을 불러왔습니다!";
+
+/* (No Comment) */
+"alert.moveAppToApplications.move" = "/Applications로 옮기기";
+
+/* (No Comment) */
+"alert.restart" = "PlayCover를 다시 시작하세요.";
+
+/* (No Comment) */
+"alert.storeAccount.regionIsNotValid" = "현재 계정이 다른 지역으로 설정되었습니다. 게임 실행 후 지역을 변경하고 게이트를 통과해 저장하세요. 그리고 다시 시도하세요";
+
+/* (No Comment) */
+"alert.success" = "성공!";
+
+/* (No Comment) */
+"button.Cancel" = "취소";
+
+/* (No Comment) */
+"button.Close" = "닫기";
+
+/* (No Comment) */
+"button.Install" = "설치";
+
+/* (No Comment) */
+"button.OK" = "확인";
+
+/* (No Comment) */
+"button.Proceed" = "진행";
+
+/* (No Comment) */
+"error.corruptedIPA" = "이 .ipa 파일은 손상되었습니다. \"Info.plist\" 파일을 포함하고 있지 않습니다.";
+
+/* (No Comment) */
+"error.waitInstallation" = "현재 설치가 끝날 때까지 기다려 주세요!";
+
+/* (No Comment) */
+"menubar.checkForUpdates" = "업데이트 확인";
+
+/* (No Comment) */
+"menubar.discord" = "Discord";
+
+/* (No Comment) */
+"menubar.documentation" = "문서";
+
+/* (No Comment) */
+"menubar.exportToSideloady" = "Sideloadly를 위해 내보내기";
+
+/* (No Comment) */
+"menubar.github" = "GitHub";
+
+/* (No Comment) */
+"menubar.log.copy" = "로그 복사";
+
+/* (No Comment) */
+"menubar.website" = "공식 홈페이지";
+
+/* (No Comment) */
+"notification.appInstalled" = "앱이 설치되었습니다!";
+
+/* (No Comment) */
+"notification.appInstalled.message" = "PlayCover에서 확인하세요!";
+
+/* (No Comment) */
+"playapp.activateAccount" = "계정 불러오기";
+
+/* (No Comment) */
+"playapp.clearCache" = "앱 데이터 삭제";
+
+/* (No Comment) */
+"playapp.clearPreferences" = "앱 환경설정 초기화";
+
+/* (No Comment) */
+"playapp.delete" = "앱 삭제";
+
+/* (No Comment) */
+"playapp.deleteAccount" = "계정 삭제하기";
+
+/* (No Comment) */
+"playapp.exportKm" = "키맵핑 내보내기";
+
+/* (No Comment) */
+"playapp.importKm" = "키맵핑 불러오기";
+
+/* (No Comment) */
+"playapp.install.addToLib" = "라이브러리에 앱을 추가하는중...";
+
+/* (No Comment) */
+"playapp.install.copy" = "앱 복사중...";
+
+/* (No Comment) */
+"playapp.install.createWrapper" = "앱 컨테이너 만드는중...";
+
+/* (No Comment) */
+"playapp.install.finished" = "완료";
+
+/* (No Comment) */
+"playapp.install.installPlayTools" = "PlayTools 설치중...";
+
+/* (No Comment) */
+"playapp.install.signing" = "앱 코드 서명중...";
+
+/* (No Comment) */
+"playapp.install.unzip" = ".ipa 파일에서 앱 추출하는중...";
+
+/* (No Comment) */
+"playapp.openCache" = "앱 데이터 열기";
+
+/* (No Comment) */
+"playapp.settings" = "앱 설정";
+
+/* (No Comment) */
+"playapp.showInFinder" = "Finder 에서 열기";
+
+/* (No Comment) */
+"playapp.storeCurrentAccount" = "현재 계정 보관하기";
+
+/* (No Comment) */
+"preferences.button.checkForUpdates" = "지금 업데이트 확인...";
+
+/* (No Comment) */
+"preferences.tab.updates" = "업데이트";
+
+/* (No Comment) */
+"preferences.toggle.automaticUpdates" = "자동으로 업데이트 확인";
+
+/* (No Comment) */
+"settings.button.discord" = "Custom Discord activity";
+
+/* (No Comment) */
+"settings.button.clearActivity" = "Clear custom activity";
+
+/* (No Comment) */
+"settings.picker.iosDevice" = "iOS 기종 선택";
+
+/* %.f */
+"settings.slider.mouseSensitivity" = "마우스 감도: %.f";
+
+/* (No Comment) */
+"settings.text.applicationID" = "Application ID";
+
+/* (No Comment) */
+"settings.text.customHeight" = "높이";
+
+/* (No Comment) */
+"settings.text.customWidth" = "너비";
+
+/* (No Comment) */
+"settings.text.details" = "Details";
+
+/* (No Comment) */
+"settings.text.details.help" = "First row below title";
+
+/* (No Comment) */
+"settings.text.image" = "Image";
+
+/* (No Comment) */
+"settings.text.image.help" = "Link to image or Dev portal asset name";
+
+/* (No Comment) */
+"settings.text.state" = "State";
+
+/* (No Comment) */
+"settings.text.state.help" = "Second row below title";
+
+/* (No Comment) */
+"settings.toggle.disableDisplaySleep" = "화면 잠자기 비활성화";
+
+/* (No Comment) */
+"settings.toggle.discord" = "Enable Discord activity";
+
+/* (No Comment) */
+"settings.toggle.jbBypass" = "탈옥 우회 활성화 (Alpha)";
+
+/* (No Comment) */
+"settings.toggle.km" = "키맵핑 활성화";
+
+/* (No Comment) */
+"soundAlert.failureText" = "현재 출력 장치의 샘플 레이트를 48 KHz로 설정하는데 실패하였습니다. ‘오디오 MIDI 설정’ 앱에서 수동으로 샘플 레이트를 설정할 수 있습니다";
+
+/* (No Comment) */
+"soundAlert.informativeText" = "현재 출력 장치의 샘플 레이트가 44.1 또는 48 KHz가 아닙니다! 충돌이 발생할 수도 있습니다. 현재 출력장치의 샘플 레이트를 48 KHz로 설정하시겠어요?";
+
+/* (No Comment) */
+"soundAlert.messageText" = "올바르지 않은 오디오 설정이 감지되었습니다!";
+
+/* (No Comment) */
+"soundAlert.successText" = "현재 출력장치의 샘플 레이트를 48 KHz로 설정했습니다";
+
+/* (No Comment) */
+"storeAccount.deleteAcc" = "계정 삭제하기";
+
+/* (No Comment) */
+"storeAccount.nameOfAcc" = "계정 이름";
+
+/* (No Comment) */
+"storeAccount.nameOfAcc.textfieldPlaceholder" = "계정 이름...";
+
+/* (No Comment) */
+"storeAccount.selectAcc" = "계정을 선택하세요";
+
+/* (No Comment) */
+"storeAccount.selectAccRegion" = "계정 지역 선택";
+
+/* (No Comment) */
+"storeAccount.selectAccRegion.asia" = "Asia";
+
+/* (No Comment) */
+"storeAccount.selectAccRegion.cht" = "TW, HK, MO";
+
+/* (No Comment) */
+"storeAccount.selectAccRegion.euro" = "Europe";
+
+/* (No Comment) */
+"storeAccount.selectAccRegion.usa" = "America";
+
+/* (No Comment) */
+"storeAccount.store" = "계정 보관하기";
+
+/* (No Comment) */
+"storeAccount.storeAcc" = "계정 보관하기";
+
+/* (No Comment) */
+"xcode.install.failed" = "명령어 라인 개발자 도구(Xcode Command Line Tools) 설치에 실패하였습니다";
+
+/* (No Comment) */
+"xcode.install.message" = "명령어 라인 개발자 도구(Xcode Command Line Tools)를 설치한 후 PlayCover를 재시작 해야합니다";
+
+/* (No Comment) */
+"xcode.install.progress" = "명령어 라인 개발자 도구(Xcode Command Line Tools) 설치중";
+
+/* (No Comment) */
+"xcode.install.progress.subtext" = "인터넷 속도에 따라 5~10분정도 소요됩니다";
+
+/* (No Comment) */
+"xcode.install.success" = "명령어 라인 개발자 도구(Xcode Command Line Tools)가 성공적으로 설치되었습니다";
+"settings.title" = "Settings";
+"playapp.exportKmPanel.fieldLabel" = "PlayMap Name:";
+"sidebar.appLibrary" = "App Library";
+"sidebar.ipaLibrary" = "IPA Library";
+"storeAccount.alert.restoreAccount" = "Really Restore Account?";
+"storeAccount.alert.restoreAccount.button" = "Restore Account";
+"storeAccount.alert.restoreAccount.msg" = "This will override your currently signed-in account.";
+"storeAccount.alert.deleteAccount" = "Really Delete Account?";
+"storeAccount.alert.deleteAccount.button" = "Delete Account";
+"alert.moveAppToApplications.title" = "Move to Applications folder?";
+"alert.moveAppToApplications.subtitle" = "PlayCover must be in the Applications folder to run correctly. Press the button below to move PlayCover automatically.";
+"button.Quit" = "Quit";
+"error.appEncrypted" = "This app is encrypted! Please use a decrypted IPA. iMazing IPAs are not supported!";
+"error.appCorrupted" = "Something went wrong with this IPA. Please try to use another IPA file.";
+"error.appProhibited" = "Using this app through PlayCover will likely result in a ban!";
+"error.noGenshinAccount" = "We couldn't find a Genshin account! Are you signed into an account in-app?";
+"settings.tab.info" = "Info";
+"settings.tab.km" = "Keymapping";
+"settings.toggle.km.help" = "Add keyboard support to touch-only games. Use Command + K to open editor menu.";
+"settings.toggle.mm" = "Mouse mapping";
+"settings.toggle.mm.help" = "Add mouse controls that emulate touch movements. Use Command + K to open editor menu.";
+"settings.tab.graphics" = "Graphics";
+"settings.picker.adaptiveRes" = "Adaptive resolution:";
+"settings.picker.adaptiveRes.help" = "Adapts and scales app window to fit the built-in Mac display.";
+"settings.picker.adaptiveRes.0" = "Off";
+"settings.picker.adaptiveRes.1" = "Auto";
+"settings.picker.adaptiveRes.5" = "Custom";
+"settings.picker.aspectRatio" = "Aspect ratio:";
+"settings.toggle.disableDisplaySleep.help" = "Prevent display from turning off while this app is running";
+"settings.tab.jbBypass" = "Jailbreak Bypass";
+"settings.toggle.jbBypass.help" = "Attempts to bypass Jailbreak Detection in some games (Not guaranteed to work all the time)";
+"settings.info.displayName" = "Display name:";
+"settings.info.bundleName" = "Bundle name:";
+"settings.info.bundleIdentifier" = "Bundle identifier";
+"settings.info.executableName" = "Executable name:";
+"settings.info.minimumOSVersion" = "Minimum OS version";
+"settings.info.url" = "URL:";
+"settings.resetSettings" = "Reset settings";
+"settings.resetKm" = "Reset keymapping";
+"settings.resetSettingsCompleted" = "Settings have been reverted back to default!";
+"settings.resetKmCompleted" = "Keymapping has been reset!";
+"xcode.install.failed.altInstructions" = "Click the button below to see alternate install instructions";
+"xcode.install.failed.altButton" = "Alternate Instructions";
+"settings.tab.misc" = "Misc";
+"settings.toggle.hud" = "Metal HUD";
+"settings.info.bundleVersion" = "Bundle version";
